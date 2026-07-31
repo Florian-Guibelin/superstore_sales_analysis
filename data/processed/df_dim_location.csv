@@ -1,0 +1,633 @@
+location_id,city,state,postal_code,region
+HE-42420,Henderson,Kentucky,42420,South
+LO-90036,Los Angeles,California,90036,West
+FO-33311,Fort Lauderdale,Florida,33311,South
+LO-90032,Los Angeles,California,90032,West
+CO-28027,Concord,North Carolina,28027,South
+SE-98103,Seattle,Washington,98103,West
+FO-76106,Fort Worth,Texas,76106,Central
+MA-53711,Madison,Wisconsin,53711,Central
+WE-84084,West Jordan,Utah,84084,West
+SA-94109,San Francisco,California,94109,West
+FR-68025,Fremont,Nebraska,68025,Central
+PH-19140,Philadelphia,Pennsylvania,19140,East
+OR-84057,Orem,Utah,84057,West
+LO-90049,Los Angeles,California,90049,West
+HO-77095,Houston,Texas,77095,Central
+RI-75080,Richardson,Texas,75080,Central
+HO-77041,Houston,Texas,77041,Central
+NA-60540,Naperville,Illinois,60540,Central
+ME-32935,Melbourne,Florida,32935,South
+EA-55122,Eagan,Minnesota,55122,Central
+WE-48185,Westland,Michigan,48185,Central
+DO-19901,Dover,Delaware,19901,East
+NE-47150,New Albany,Indiana,47150,Central
+NE-10024,New York City,New York,10024,East
+TR-12180,Troy,New York,12180,East
+LO-90004,Los Angeles,California,90004,West
+CH-60610,Chicago,Illinois,60610,Central
+GI-85234,Gilbert,Arizona,85234,West
+SP-22153,Springfield,Virginia,22153,South
+NE-10009,New York City,New York,10009,East
+JA-49201,Jackson,Michigan,49201,Central
+ME-38109,Memphis,Tennessee,38109,South
+HO-77070,Houston,Texas,77070,Central
+DE-35601,Decatur,Alabama,35601,South
+SA-94122,San Francisco,California,94122,West
+DU-27707,Durham,North Carolina,27707,South
+CH-60623,Chicago,Illinois,60623,Central
+CO-29203,Columbia,South Carolina,29203,South
+RO-55901,Rochester,Minnesota,55901,Central
+MI-55407,Minneapolis,Minnesota,55407,Central
+PO-97206,Portland,Oregon,97206,West
+SA-55106,Saint Paul,Minnesota,55106,Central
+AU-80013,Aurora,Colorado,80013,West
+CH-28205,Charlotte,North Carolina,28205,South
+OR-60462,Orland Park,Illinois,60462,Central
+NE-10035,New York City,New York,10035,East
+UR-50322,Urbandale,Iowa,50322,Central
+CO-43229,Columbus,Ohio,43229,East
+BR-37620,Bristol,Tennessee,37620,South
+WI-19805,Wilmington,Delaware,19805,East
+BL-61701,Bloomington,Illinois,61701,Central
+PH-85023,Phoenix,Arizona,85023,West
+RO-95661,Roseville,California,95661,West
+IN-64055,Independence,Missouri,64055,Central
+PA-91104,Pasadena,California,91104,West
+NE-43055,Newark,Ohio,43055,East
+FR-53132,Franklin,Wisconsin,53132,Central
+SC-85254,Scottsdale,Arizona,85254,West
+SA-95123,San Jose,California,95123,West
+SE-98105,Seattle,Washington,98105,West
+SE-98115,Seattle,Washington,98115,West
+ED-73034,Edmond,Oklahoma,73034,Central
+LO-90045,Los Angeles,California,90045,West
+PH-19134,Philadelphia,Pennsylvania,19134,East
+CA-88220,Carlsbad,New Mexico,88220,West
+SA-78207,San Antonio,Texas,78207,Central
+HO-77036,Houston,Texas,77036,Central
+DE-62521,Decatur,Illinois,62521,Central
+MO-71203,Monroe,Louisiana,71203,South
+FA-6824,Fairfield,Connecticut,6824,East
+GR-75051,Grand Prairie,Texas,75051,Central
+RE-92374,Redlands,California,92374,West
+HA-45011,Hamilton,Ohio,45011,East
+WE-7090,Westfield,New Jersey,7090,East
+PH-19120,Philadelphia,Pennsylvania,19120,East
+AK-44312,Akron,Ohio,44312,East
+DE-80219,Denver,Colorado,80219,West
+DA-75220,Dallas,Texas,75220,Central
+FR-37064,Franklin,Tennessee,37064,South
+WH-90604,Whittier,California,90604,West
+SA-48601,Saginaw,Michigan,48601,Central
+ME-44256,Medina,Ohio,44256,East
+DU-43017,Dublin,Ohio,43017,East
+DE-48227,Detroit,Michigan,48227,Central
+CO-38401,Columbia,Tennessee,38401,South
+TA-33614,Tampa,Florida,33614,South
+SA-95051,Santa Clara,California,95051,West
+LA-55044,Lakeville,Minnesota,55044,Central
+SA-92037,San Diego,California,92037,West
+PA-77506,Pasadena,Texas,77506,Central
+BR-94513,Brentwood,California,94513,West
+CH-27514,Chapel Hill,North Carolina,27514,South
+MO-7960,Morristown,New Jersey,7960,East
+CI-45231,Cincinnati,Ohio,45231,East
+SA-94110,San Francisco,California,94110,West
+IN-90301,Inglewood,California,90301,West
+TA-33319,Tamarac,Florida,33319,South
+CO-80906,Colorado Springs,Colorado,80906,West
+BE-7109,Belleville,New Jersey,7109,East
+TA-48180,Taylor,Michigan,48180,Central
+LA-8701,Lakewood,New Jersey,8701,East
+AR-22204,Arlington,Virginia,22204,South
+AR-80004,Arvada,Colorado,80004,West
+HA-7601,Hackensack,New Jersey,7601,East
+SA-33710,Saint Petersburg,Florida,33710,South
+PH-19143,Philadelphia,Pennsylvania,19143,East
+LO-90805,Long Beach,California,90805,West
+HE-92345,Hesperia,California,92345,West
+MU-37130,Murfreesboro,Tennessee,37130,South
+LA-84041,Layton,Utah,84041,West
+AU-78745,Austin,Texas,78745,Central
+LO-1852,Lowell,Massachusetts,1852,East
+CO-31907,Columbus,Georgia,31907,South
+MA-6040,Manchester,Connecticut,6040,East
+HA-78550,Harlingen,Texas,78550,Central
+TU-85705,Tucson,Arizona,85705,West
+QU-62301,Quincy,Illinois,62301,Central
+FR-2038,Franklin,Massachusetts,2038,East
+PE-33024,Pembroke Pines,Florida,33024,South
+DE-98198,Des Moines,Washington,98198,West
+PE-61604,Peoria,Illinois,61604,Central
+LA-89115,Las Vegas,Nevada,89115,West
+WA-2886,Warwick,Rhode Island,2886,East
+MI-33180,Miami,Florida,33180,South
+WI-28403,Wilmington,North Carolina,28403,South
+HU-92646,Huntington Beach,California,92646,West
+RI-40475,Richmond,Kentucky,40475,South
+LO-80027,Louisville,Colorado,80027,West
+LA-1841,Lawrence,Massachusetts,1841,East
+JA-39212,Jackson,Mississippi,39212,South
+CA-48187,Canton,Michigan,48187,Central
+NE-10801,New Rochelle,New York,10801,East
+GA-28052,Gastonia,North Carolina,28052,South
+JA-32216,Jacksonville,Florida,32216,South
+CO-47201,Columbus,Indiana,47201,Central
+AU-13021,Auburn,New York,13021,East
+NO-73071,Norman,Oklahoma,73071,Central
+CO-94521,Concord,California,94521,West
+PA-60068,Park Ridge,Illinois,60068,Central
+AM-79109,Amarillo,Texas,79109,Central
+LI-11757,Lindenhurst,New York,11757,East
+LO-90008,Los Angeles,California,90008,West
+SA-92024,San Diego,California,92024,West
+HU-77340,Huntsville,Texas,77340,Central
+RO-14609,Rochester,New York,14609,East
+FA-72701,Fayetteville,Arkansas,72701,South
+CO-92627,Costa Mesa,California,92627,West
+PA-80134,Parker,Colorado,80134,West
+AT-30318,Atlanta,Georgia,30318,South
+GL-64118,Gladstone,Missouri,64118,Central
+GR-59405,Great Falls,Montana,59405,West
+DE-48234,Detroit,Michigan,48234,Central
+LA-33801,Lakeland,Florida,33801,South
+MO-36116,Montgomery,Alabama,36116,South
+ME-85204,Mesa,Arizona,85204,West
+CH-60653,Chicago,Illinois,60653,Central
+GR-54302,Green Bay,Wisconsin,54302,Central
+SP-45503,Springfield,Ohio,45503,East
+AN-92804,Anaheim,California,92804,West
+MA-98270,Marysville,Washington,98270,West
+SA-97301,Salem,Oregon,97301,West
+LA-78041,Laredo,Texas,78041,Central
+DA-75217,Dallas,Texas,75217,Central
+GR-43123,Grove City,Ohio,43123,East
+NE-10011,New York City,New York,10011,East
+DE-48126,Dearborn,Michigan,48126,Central
+WA-31088,Warner Robins,Georgia,31088,South
+VA-94591,Vallejo,California,94591,West
+MI-92691,Mission Viejo,California,92691,West
+RO-48307,Rochester Hills,Michigan,48307,Central
+PL-7060,Plainfield,New Jersey,7060,East
+SI-85635,Sierra Vista,Arizona,85635,West
+VA-98661,Vancouver,Washington,98661,West
+AU-60505,Aurora,Illinois,60505,Central
+AR-76017,Arlington,Texas,76017,Central
+LO-40214,Louisville,Kentucky,40214,South
+DA-75081,Dallas,Texas,75081,Central
+CL-44105,Cleveland,Ohio,44105,East
+TY-75701,Tyler,Texas,75701,Central
+BU-27217,Burlington,North Carolina,27217,South
+WA-22980,Waynesboro,Virginia,22980,South
+CH-19013,Chester,Pennsylvania,19013,East
+CA-27511,Cary,North Carolina,27511,South
+PA-32137,Palm Coast,Florida,32137,South
+MO-10550,Mount Vernon,New York,10550,East
+DE-48205,Detroit,Michigan,48205,Central
+HI-33012,Hialeah,Florida,33012,South
+OC-11572,Oceanside,New York,11572,East
+SA-92105,San Diego,California,92105,West
+EV-60201,Evanston,Illinois,60201,Central
+TR-48183,Trenton,Michigan,48183,Central
+CO-55016,Cottage Grove,Minnesota,55016,Central
+BO-71111,Bossier City,Louisiana,71111,South
+DE-50315,Des Moines,Iowa,50315,Central
+LA-93534,Lancaster,California,93534,West
+RI-23223,Richmond,Virginia,23223,South
+AS-28806,Asheville,North Carolina,28806,South
+LA-92530,Lake Elsinore,California,92530,West
+OM-68104,Omaha,Nebraska,68104,Central
+ED-98026,Edmonds,Washington,98026,West
+SA-92704,Santa Ana,California,92704,West
+MI-53209,Milwaukee,Wisconsin,53209,Central
+FL-41042,Florence,Kentucky,41042,South
+LO-44052,Lorain,Ohio,44052,East
+LI-7036,Linden,New Jersey,7036,East
+SA-93905,Salinas,California,93905,West
+NE-8901,New Brunswick,New Jersey,8901,East
+LA-17602,Lancaster,Pennsylvania,17602,East
+CO-3301,Concord,New Hampshire,3301,East
+CO-21044,Columbia,Maryland,21044,East
+GA-75043,Garland,Texas,75043,Central
+NO-6360,Norwich,Connecticut,6360,East
+AL-22304,Alexandria,Virginia,22304,South
+TO-43615,Toledo,Ohio,43615,East
+FA-87401,Farmington,New Mexico,87401,West
+RI-92503,Riverside,California,92503,West
+TO-90503,Torrance,California,90503,West
+RO-78664,Round Rock,Texas,78664,Central
+OC-92054,Oceanside,California,92054,West
+BO-33433,Boca Raton,Florida,33433,South
+VI-23464,Virginia Beach,Virginia,23464,South
+MU-92563,Murrieta,California,92563,West
+JA-28540,Jacksonville,North Carolina,28540,South
+BU-52601,Burlington,Iowa,52601,Central
+OL-98502,Olympia,Washington,98502,West
+WA-20016,Washington,District of Columbia,20016,East
+JE-65109,Jefferson City,Missouri,65109,Central
+SA-63376,Saint Peters,Missouri,63376,Central
+RO-61107,Rockford,Illinois,61107,Central
+MI-33142,Miami,Florida,33142,South
+BR-78521,Brownsville,Texas,78521,Central
+YO-10701,Yonkers,New York,10701,East
+OA-94601,Oakland,California,94601,West
+MO-28110,Monroe,North Carolina,28110,South
+CL-20735,Clinton,Maryland,20735,East
+EN-92024,Encinitas,California,92024,West
+RO-30076,Roswell,Georgia,30076,South
+JO-72401,Jonesboro,Arkansas,72401,South
+RI-47374,Richmond,Indiana,47374,Central
+AN-94509,Antioch,California,94509,West
+HO-33030,Homestead,Florida,33030,South
+LA-46350,La Porte,Indiana,46350,Central
+LA-48911,Lansing,Michigan,48911,Central
+CU-44221,Cuyahoga Falls,Ohio,44221,East
+RE-89502,Reno,Nevada,89502,West
+HA-22801,Harrisonburg,Virginia,22801,South
+ES-92025,Escondido,California,92025,West
+RO-48073,Royal Oak,Michigan,48073,Central
+RO-20852,Rockville,Maryland,20852,East
+CO-33065,Coral Springs,Florida,33065,South
+BU-14215,Buffalo,New York,14215,East
+BO-33437,Boynton Beach,Florida,33437,South
+GU-39503,Gulfport,Mississippi,39503,South
+FR-93727,Fresno,California,93727,West
+GR-27834,Greenville,North Carolina,27834,South
+LO-11561,Long Beach,New York,11561,East
+FL-35630,Florence,Alabama,35630,South
+MA-31204,Macon,Georgia,31204,South
+CE-52402,Cedar Rapids,Iowa,52402,Central
+PR-2908,Providence,Rhode Island,2908,East
+PU-81001,Pueblo,Colorado,81001,West
+FA-94533,Fairfield,California,94533,West
+DE-32725,Deltona,Florida,32725,South
+MU-42071,Murray,Kentucky,42071,South
+MI-6457,Middletown,Connecticut,6457,East
+FR-11520,Freeport,New York,11520,East
+PI-90660,Pico Rivera,California,90660,West
+PR-84604,Provo,Utah,84604,West
+PL-84062,Pleasant Grove,Utah,84062,West
+SM-30080,Smyrna,Georgia,30080,South
+SA-24153,Salem,Virginia,24153,South
+PA-44134,Parma,Ohio,44134,East
+MO-36608,Mobile,Alabama,36608,South
+NE-2740,New Bedford,Massachusetts,2740,East
+IR-75061,Irving,Texas,75061,Central
+VI-8360,Vineland,New Jersey,8360,East
+GL-85301,Glendale,Arizona,85301,West
+NI-14304,Niagara Falls,New York,14304,East
+TH-27360,Thomasville,North Carolina,27360,South
+WE-92683,Westminster,California,92683,West
+JA-38301,Jackson,Tennessee,38301,South
+CO-75019,Coppell,Texas,75019,Central
+PO-91767,Pomona,California,91767,West
+NO-89031,North Las Vegas,Nevada,89031,West
+AL-18103,Allentown,Pennsylvania,18103,East
+NE-19711,Newark,Delaware,19711,East
+TE-85281,Tempe,Arizona,85281,West
+LA-92677,Laguna Niguel,California,92677,West
+BR-8302,Bridgeton,New Jersey,8302,East
+EV-2149,Everett,Massachusetts,2149,East
+WA-13601,Watertown,New York,13601,East
+AP-54915,Appleton,Wisconsin,54915,Central
+BE-98006,Bellevue,Washington,98006,West
+AL-75002,Allen,Texas,75002,Central
+EL-79907,El Paso,Texas,79907,Central
+GR-76051,Grapevine,Texas,76051,Central
+CA-75007,Carrollton,Texas,75007,Central
+SM-37167,Smyrna,Tennessee,37167,South
+KE-98031,Kent,Washington,98031,West
+LA-70506,Lafayette,Louisiana,70506,South
+TI-97224,Tigard,Oregon,97224,West
+SK-60076,Skokie,Illinois,60076,Central
+PL-75023,Plano,Texas,75023,Central
+SU-23434,Suffolk,Virginia,23434,South
+IN-46203,Indianapolis,Indiana,46203,Central
+BA-7002,Bayonne,New Jersey,7002,East
+FA-28314,Fayetteville,North Carolina,28314,South
+GR-27405,Greensboro,North Carolina,27405,South
+BA-21215,Baltimore,Maryland,21215,East
+KE-53142,Kenosha,Wisconsin,53142,Central
+OL-66062,Olathe,Kansas,66062,Central
+AU-98002,Auburn,Washington,98002,West
+TU-74133,Tulsa,Oklahoma,74133,Central
+RE-97756,Redmond,Oregon,97756,West
+RA-27604,Raleigh,North Carolina,27604,South
+MU-74403,Muskogee,Oklahoma,74403,Central
+ME-6450,Meriden,Connecticut,6450,East
+BO-42104,Bowling Green,Kentucky,42104,South
+SO-46614,South Bend,Indiana,46614,Central
+BR-6010,Bristol,Connecticut,6010,East
+HE-89015,Henderson,Nevada,89015,West
+SP-99207,Spokane,Washington,99207,West
+KE-76248,Keller,Texas,76248,Central
+FA-45014,Fairfield,Ohio,45014,East
+PO-32127,Port Orange,Florida,32127,South
+ME-97504,Medford,Oregon,97504,West
+CH-22901,Charlottesville,Virginia,22901,South
+MI-59801,Missoula,Montana,59801,West
+MI-33178,Miami,Florida,33178,South
+FL-29501,Florence,South Carolina,29501,South
+SP-97477,Springfield,Oregon,97477,West
+AP-32712,Apopka,Florida,32712,South
+RE-19601,Reading,Pennsylvania,19601,East
+BR-80020,Broomfield,Colorado,80020,West
+SP-65807,Springfield,Missouri,65807,Central
+PA-7501,Paterson,New Jersey,7501,East
+OK-73120,Oklahoma City,Oklahoma,73120,Central
+CH-23320,Chesapeake,Virginia,23320,South
+LU-79424,Lubbock,Texas,79424,Central
+CO-65203,Columbia,Missouri,65203,Central
+JO-37604,Johnson City,Tennessee,37604,South
+AU-36830,Auburn,Alabama,36830,South
+SA-92404,San Bernardino,California,92404,West
+LE-1453,Leominster,Massachusetts,1453,East
+BO-59715,Bozeman,Montana,59715,West
+PE-85345,Peoria,Arizona,85345,West
+LA-44107,Lakewood,Ohio,44107,East
+PE-8861,Perth Amboy,New Jersey,8861,East
+ON-91761,Ontario,California,91761,West
+RA-91730,Rancho Cucamonga,California,91730,West
+MO-56560,Moorhead,Minnesota,56560,Central
+ME-75150,Mesquite,Texas,75150,Central
+ST-95207,Stockton,California,95207,West
+OR-32174,Ormond Beach,Florida,32174,South
+SU-94086,Sunnyvale,California,94086,West
+DO-3820,Dover,New Hampshire,3820,East
+YO-17403,York,Pennsylvania,17403,East
+CO-77840,College Station,Texas,77840,Central
+SA-63116,Saint Louis,Missouri,63116,Central
+QU-2169,Quincy,Massachusetts,2169,East
+MA-95336,Manteca,California,95336,West
+KE-44240,Kent,Ohio,44240,East
+SA-76903,San Angelo,Texas,76903,Central
+SA-84106,Salt Lake City,Utah,84106,West
+HU-35810,Huntsville,Alabama,35810,South
+KN-37918,Knoxville,Tennessee,37918,South
+LI-72209,Little Rock,Arkansas,72209,South
+LI-48146,Lincoln Park,Michigan,48146,Central
+MA-43302,Marion,Ohio,43302,East
+LI-80122,Littleton,Colorado,80122,West
+BU-5408,Burlington,Vermont,5408,East
+BA-4401,Bangor,Maine,4401,East
+SO-38671,Southaven,Mississippi,38671,South
+NE-47362,New Castle,Indiana,47362,Central
+MI-48640,Midland,Michigan,48640,Central
+SI-57103,Sioux Falls,South Dakota,57103,Central
+FO-80525,Fort Collins,Colorado,80525,West
+LA-47905,Lafayette,Indiana,47905,Central
+CL-37042,Clarksville,Tennessee,37042,South
+SA-95823,Sacramento,California,95823,West
+TH-91360,Thousand Oaks,California,91360,West
+MA-2148,Malden,Massachusetts,2148,East
+HO-1040,Holyoke,Massachusetts,1040,East
+AL-87105,Albuquerque,New Mexico,87105,West
+SP-89431,Sparks,Nevada,89431,West
+CO-92236,Coachella,California,92236,West
+EL-60126,Elmhurst,Illinois,60126,Central
+PA-7055,Passaic,New Jersey,7055,East
+NO-29406,North Charleston,South Carolina,29406,South
+NE-23602,Newport News,Virginia,23602,South
+JA-14701,Jamestown,New York,14701,East
+MI-46544,Mishawaka,Indiana,46544,Central
+BO-43402,Bowling Green,Ohio,43402,East
+LA-92253,La Quinta,California,92253,West
+TA-32303,Tallahassee,Florida,32303,South
+NA-37211,Nashville,Tennessee,37211,South
+BE-98226,Bellingham,Washington,98226,West
+WO-60098,Woodstock,Illinois,60098,Central
+HA-76117,Haltom City,Texas,76117,Central
+WH-60090,Wheeling,Illinois,60090,Central
+SU-29483,Summerville,South Carolina,29483,South
+HO-71901,Hot Springs,Arkansas,71901,South
+EN-80112,Englewood,Colorado,80112,West
+LA-43130,Lancaster,Ohio,43130,East
+LA-88001,Las Cruces,New Mexico,88001,West
+HO-35244,Hoover,Alabama,35244,South
+FR-75034,Frisco,Texas,75034,Central
+VA-95687,Vacaville,California,95687,West
+MU-84107,Murray,Utah,84107,West
+WA-53186,Waukesha,Wisconsin,53186,Central
+BA-93309,Bakersfield,California,93309,West
+PO-33068,Pompano Beach,Florida,33068,South
+TR-45373,Troy,Ohio,45373,East
+CO-78415,Corpus Christi,Texas,78415,Central
+RE-90278,Redondo Beach,California,90278,West
+OR-32839,Orlando,Florida,32839,South
+OR-7050,Orange,New Jersey,7050,East
+LA-70601,Lake Charles,Louisiana,70601,South
+HI-60035,Highland Park,Illinois,60035,Central
+HE-11550,Hempstead,New York,11550,East
+NO-46060,Noblesville,Indiana,46060,Central
+AP-55124,Apple Valley,Minnesota,55124,Central
+MO-29464,Mount Pleasant,South Carolina,29464,South
+ST-48310,Sterling Heights,Michigan,48310,Central
+EA-54703,Eau Claire,Wisconsin,54703,Central
+PH-78577,Pharr,Texas,78577,Central
+BI-59102,Billings,Montana,59102,West
+GR-97030,Gresham,Oregon,97030,West
+CH-37421,Chattanooga,Tennessee,37421,South
+ME-83642,Meridian,Idaho,83642,West
+AP-92307,Apple Valley,California,92307,West
+BO-60440,Bolingbrook,Illinois,60440,Central
+MA-55369,Maple Grove,Minnesota,55369,Central
+WO-95695,Woodland,California,95695,West
+MI-77489,Missouri City,Texas,77489,Central
+PE-77581,Pearland,Texas,77581,Central
+SA-94403,San Mateo,California,94403,West
+GR-49505,Grand Rapids,Michigan,49505,Central
+VI-93277,Visalia,California,93277,West
+OV-66212,Overland Park,Kansas,66212,Central
+TE-92592,Temecula,California,92592,West
+YU-92399,Yucaipa,California,92399,West
+RE-2151,Revere,Massachusetts,2151,East
+CO-77301,Conroe,Texas,77301,Central
+TI-60477,Tinley Park,Illinois,60477,Central
+DU-52001,Dubuque,Iowa,52001,Central
+DE-48127,Dearborn Heights,Michigan,48127,Central
+SA-87505,Santa Fe,New Mexico,87505,West
+HI-28601,Hickory,North Carolina,28601,South
+CA-60188,Carol Stream,Illinois,60188,Central
+SA-56301,Saint Cloud,Minnesota,56301,Central
+NO-33161,North Miami,Florida,33161,South
+LA-46226,Lawrence,Indiana,46226,Central
+PL-33317,Plantation,Florida,33317,South
+PO-34952,Port Saint Lucie,Florida,34952,South
+RO-29730,Rock Hill,South Carolina,29730,South
+OD-79762,Odessa,Texas,79762,Central
+WE-53214,West Allis,Wisconsin,53214,Central
+CH-91911,Chula Vista,California,91911,West
+MA-66502,Manhattan,Kansas,66502,Central
+AL-16602,Altoona,Pennsylvania,16602,East
+TH-80229,Thornton,Colorado,80229,West
+CH-61821,Champaign,Illinois,61821,Central
+BL-47401,Bloomington,Indiana,47401,Central
+TE-71854,Texarkana,Arkansas,71854,South
+ED-78539,Edinburg,Texas,78539,Central
+BA-77520,Baytown,Texas,77520,Central
+GR-46142,Greenwood,Indiana,46142,Central
+LA-90712,Lakewood,California,90712,West
+WO-2895,Woonsocket,Rhode Island,2895,East
+SU-54880,Superior,Wisconsin,54880,Central
+BE-76021,Bedford,Texas,76021,Central
+CO-98042,Covington,Washington,98042,West
+BR-74012,Broken Arrow,Oklahoma,74012,Central
+MI-33023,Miramar,Florida,33023,South
+HO-33021,Hollywood,Florida,33021,South
+DE-77536,Deer Park,Texas,77536,Central
+WI-67212,Wichita,Kansas,67212,Central
+MC-78501,Mcallen,Texas,78501,Central
+IO-52240,Iowa City,Iowa,52240,Central
+BO-83704,Boise,Idaho,83704,West
+CR-2920,Cranston,Rhode Island,2920,East
+FR-61032,Freeport,Illinois,61032,Central
+PO-77642,Port Arthur,Texas,77642,Central
+CI-95610,Citrus Heights,California,95610,West
+TH-75056,The Colony,Texas,75056,Central
+RE-98052,Redmond,Washington,98052,West
+DA-32114,Daytona Beach,Florida,32114,South
+BU-86442,Bullhead City,Arizona,86442,West
+PO-46368,Portage,Indiana,46368,Central
+FA-58103,Fargo,North Dakota,58103,Central
+EL-46514,Elkhart,Indiana,46514,Central
+SA-91776,San Gabriel,California,91776,West
+MA-33063,Margate,Florida,33063,South
+SA-30328,Sandy Springs,Georgia,30328,South
+ME-44060,Mentor,Ohio,44060,East
+LA-73505,Lawton,Oklahoma,73505,Central
+HA-23666,Hampton,Virginia,23666,South
+RO-13440,Rome,New York,13440,East
+LA-54601,La Crosse,Wisconsin,54601,Central
+LE-83501,Lewiston,Idaho,83501,West
+HA-39401,Hattiesburg,Mississippi,39401,South
+DA-94526,Danville,California,94526,West
+MO-48858,Mount Pleasant,Michigan,48858,Central
+LO-84321,Logan,Utah,84321,West
+WA-6708,Waterbury,Connecticut,6708,East
+AT-30605,Athens,Georgia,30605,South
+LE-4240,Lewiston,Maine,4240,East
+DA-61832,Danville,Illinois,61832,Central
+AV-85323,Avondale,Arizona,85323,West
+MA-30062,Marietta,Georgia,30062,South
+YU-85364,Yuma,Arizona,85364,West
+WA-54401,Wausau,Wisconsin,54401,Central
+PA-99301,Pasco,Washington,99301,West
+OA-60302,Oak Park,Illinois,60302,Central
+PE-32503,Pensacola,Florida,32503,South
+LE-77573,League City,Texas,77573,Central
+GA-20877,Gaithersburg,Maryland,20877,East
+LE-84043,Lehi,Utah,84043,West
+TU-35401,Tuscaloosa,Alabama,35401,South
+MO-92553,Moreno Valley,California,92553,West
+GE-40324,Georgetown,Kentucky,40324,South
+LO-80538,Loveland,Colorado,80538,West
+CH-85224,Chandler,Arizona,85224,West
+HE-59601,Helena,Montana,59601,West
+KI-63122,Kirkwood,Missouri,63122,Central
+WA-76706,Waco,Texas,76706,Central
+RO-48066,Roseville,Michigan,48066,Central
+FR-60423,Frankfort,Illinois,60423,Central
+BE-18018,Bethlehem,Pennsylvania,18018,East
+RO-55113,Roseville,Minnesota,55113,Central
+GR-68801,Grand Island,Nebraska,68801,Central
+WO-55125,Woodbury,Minnesota,55125,Central
+OA-48237,Oak Park,Michigan,48237,Central
+RO-72756,Rogers,Arkansas,72756,South
+CL-88101,Clovis,New Mexico,88101,West
+JU-33458,Jupiter,Florida,33458,South
+SA-93101,Santa Barbara,California,93101,West
+CE-75104,Cedar Hill,Texas,75104,Central
+NO-68701,Norfolk,Nebraska,68701,Central
+DR-84020,Draper,Utah,84020,West
+AN-48104,Ann Arbor,Michigan,48104,Central
+LA-91941,La Mesa,California,91941,West
+PO-83201,Pocatello,Idaho,83201,West
+HO-49423,Holland,Michigan,49423,Central
+MI-6460,Milford,Connecticut,6460,East
+BU-60089,Buffalo Grove,Illinois,60089,Central
+LA-92630,Lake Forest,California,92630,West
+RE-96003,Redding,California,96003,West
+CH-95928,Chico,California,95928,West
+UT-13501,Utica,New York,13501,East
+CO-72032,Conway,Arkansas,72032,South
+CH-82001,Cheyenne,Wyoming,82001,West
+OW-42301,Owensboro,Kentucky,42301,South
+CA-83605,Caldwell,Idaho,83605,West
+KE-70065,Kenner,Louisiana,70065,South
+NA-3060,Nashua,New Hampshire,3060,East
+BA-38134,Bartlett,Tennessee,38134,South
+RE-94061,Redwood City,California,94061,West
+LE-37087,Lebanon,Tennessee,37087,South
+SA-93454,Santa Maria,California,93454,West
+DE-60016,Des Plaines,Illinois,60016,Central
+LO-98632,Longview,Washington,98632,West
+HE-37075,Hendersonville,Tennessee,37075,South
+WA-50701,Waterloo,Iowa,50701,Central
+CA-2138,Cambridge,Massachusetts,2138,East
+PA-60067,Palatine,Illinois,60067,Central
+BE-1915,Beverly,Massachusetts,1915,East
+EU-97405,Eugene,Oregon,97405,West
+OX-93030,Oxnard,California,93030,West
+RE-98059,Renton,Washington,98059,West
+GL-60025,Glenview,Illinois,60025,Central
+DE-33445,Delray Beach,Florida,33445,South
+CO-80022,Commerce City,Colorado,80022,West
+TE-77590,Texas City,Texas,77590,Central
+WI-27893,Wilson,North Carolina,27893,South
+RI-87124,Rio Rancho,New Mexico,87124,West
+GO-27534,Goldsboro,North Carolina,27534,South
+EV-98208,Everett,Washington,98208,West
+MO-90640,Montebello,California,90640,West
+EL-92020,El Cajon,California,92020,West
+BE-77705,Beaumont,Texas,77705,Central
+WE-33407,West Palm Beach,Florida,33407,South
+AB-79605,Abilene,Texas,79605,Central
+NO-61761,Normal,Illinois,61761,Central
+SA-63301,Saint Charles,Missouri,63301,Central
+SA-60174,Saint Charles,Illinois,60174,Central
+CA-93010,Camarillo,California,93010,West
+HI-97123,Hillsboro,Oregon,97123,West
+BU-91505,Burbank,California,91505,West
+MO-95351,Modesto,California,95351,West
+GA-67846,Garden City,Kansas,67846,Central
+AT-8401,Atlantic City,New Jersey,8401,East
+LO-80501,Longmont,Colorado,80501,West
+DA-95616,Davis,California,95616,West
+WH-26003,Wheeling,West Virginia,26003,East
+MO-95037,Morgan Hill,California,95037,West
+CL-7011,Clifton,New Jersey,7011,East
+SH-53081,Sheboygan,Wisconsin,53081,Central
+EA-30344,East Point,Georgia,30344,South
+RA-57701,Rapid City,South Dakota,57701,Central
+AN-1810,Andover,Massachusetts,1810,East
+KI-34741,Kissimmee,Florida,34741,South
+SH-6484,Shelton,Connecticut,6484,East
+DA-6810,Danbury,Connecticut,6810,East
+MA-52302,Marion,Iowa,52302,Central
+SA-32771,Sanford,Florida,32771,South
+SA-78666,San Marcos,Texas,78666,Central
+GR-80634,Greeley,Colorado,80634,West
+MA-76063,Mansfield,Texas,76063,Central
+EL-44035,Elyria,Ohio,44035,East
+TW-83301,Twin Falls,Idaho,83301,West
+CO-33134,Coral Gables,Florida,33134,South
+RO-60441,Romeoville,Illinois,60441,Central
+MA-1752,Marlborough,Massachusetts,1752,East
+LA-20707,Laurel,Maryland,20707,East
+BR-77803,Bryan,Texas,77803,Central
+PI-71603,Pine Bluff,Arkansas,71603,South
+AB-57401,Aberdeen,South Dakota,57401,Central
+HA-21740,Hagerstown,Maryland,21740,East
+EA-7017,East Orange,New Jersey,7017,East
+AR-60004,Arlington Heights,Illinois,60004,Central
+OS-60543,Oswego,Illinois,60543,Central
+CO-55433,Coon Rapids,Minnesota,55433,Central
+SA-92672,San Clemente,California,92672,West
+DU-94568,Dublin,California,94568,West
+SA-93405,San Luis Obispo,California,93405,West
+SP-72762,Springdale,Arkansas,72762,South
+LO-95240,Lodi,California,95240,West
+LA-77571,La Porte,Texas,77571,Central
+MA-45040,Mason,Ohio,45040,East
+WO-30188,Woodstock,Georgia,30188,South
