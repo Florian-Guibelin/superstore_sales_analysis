@@ -18,7 +18,7 @@ Ce projet reproduit un workflow complet de Data Analysis à partir du jeu de don
 
 
 
-!\[Vue d'ensemble](dashboard/screenshots/overview.png)
+![Vue d'ensemble](dashboard/screenshots/overview.png)
 
 
 
@@ -26,7 +26,7 @@ Ce projet reproduit un workflow complet de Data Analysis à partir du jeu de don
 
 
 
-!\[Analyse géographique](dashboard/screenshots/geography.png)
+![Analyse géographique](dashboard/screenshots/geography.png)
 
 
 
@@ -34,7 +34,7 @@ Ce projet reproduit un workflow complet de Data Analysis à partir du jeu de don
 
 
 
-!\[Business Insights](dashboard/screenshots/insights.png)
+![Business Insights](dashboard/screenshots/insights.png)
 
 
 
